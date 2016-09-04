@@ -10,8 +10,9 @@ Every week I create a random program that does something... Below is the descrip
 * Week 2 (8/22/16)
   - Finds the biggest files in a directory.
   
-* Week 3 (8/29/16) (Not Released)
-  - Planned: Encrypts sentence by replacing all words with another word in dictionary.
+* Week 3 (8/29/16) 
+  - Encrypts sentence by replacing all words with another word in dictionary.
+  - Requires no spaces, and all words have to be in the English dictionary.
 
 
 ## Side Note
