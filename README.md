@@ -14,6 +14,8 @@ Every week I create a random program that does something... Below is the descrip
   - Encrypts sentence by replacing all words with another word in dictionary.
   - Requires no spaces, and all words have to be in the English dictionary.
 
+* Week 4 (9/5/16)
+  - Finds all words in a website.
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn python, so if you have any suggestions on how to improve a weekly program, you can contribute by creating a pull request with a improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and so that I can learn more about programming, Thanks.
