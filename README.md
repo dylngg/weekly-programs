@@ -16,6 +16,10 @@ Every week I create a random program that does something... Below is the descrip
 
 * Week 4 (9/5/16)
   - Finds all words in a website.
+  - Requires module bs4 and requests
+
+* Week 5 (9/12/16)
+  - A program that forces you to make a decision on the items you can't decide on.
 
 ## Side Note
-* Just as a side note, I am a inexperienced programmer who is trying to learn python, so if you have any suggestions on how to improve a weekly program, you can contribute by creating a pull request with a improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and so that I can learn more about programming, Thanks.
+* Just as a side note, I am a inexperienced programmer who is trying to learn python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
