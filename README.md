@@ -21,5 +21,8 @@ Every week I create a random program that does something... Below is the descrip
 * Week 5 (9/12/16)
   - A program that forces you to make a decision on the items you can't decide on.
 
+* Week 6 (9/19/16)
+  - Detects Clickbait titles using common words or expressions used in clickbait titles.
+
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
