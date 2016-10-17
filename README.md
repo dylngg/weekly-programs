@@ -29,11 +29,11 @@ Every week I create a random program that does something... Below is the descrip
   - A program that backups your folders.
 
 * Week 8 (10/3/16) (Evil Month) (Uploaded on 10/16 due to github error)
-  - A program that captures the current clipboard item and puts it in a text file
+  - A program that captures the current clipboard item and puts it in a text file.
   - Evil Month: *Create a program that can be used for evil(or good...)*
 
 * Week 9 (10/10/16) (Evil Month)
-  - A program that...
+  - A program that moves n files to a random directory.
   - Evil Month: *Create a program that can be used for evil(or good...)*
 
 ## Side Note
