@@ -40,7 +40,7 @@ def getDir(directory):
 def moveRandomFile(directories, files):
 	fileToMove = files[random.randint(0,len(files) - 1)]
 	destination = directories[random.randint(0,len(directories) - 1)]
-	if destination is not os.path.dirname(fileToMove):
+	if os.path.dirname(destination) is not os.path.dirname(fileToMove):
 		print('Moving', fileToMove, 'to', destination)
 		shutil.move(fileToMove, destination)
 		
