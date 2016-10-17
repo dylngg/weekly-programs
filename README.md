@@ -4,7 +4,6 @@ Every week I create a random program that does something... Below is the descrip
 
 
 
-
 ## Descriptions
 * Week 1 (8/14/16)
   - Generates gibberish at whatever length you want.
@@ -28,6 +27,14 @@ Every week I create a random program that does something... Below is the descrip
 
 * Week 7 (9/26/16)
   - A program that backups your folders.
+
+* Week 8 (10/3/16) (Evil Month) (Uploaded on 10/16 due to github error)
+  - A program that captures the current clipboard item and puts it in a text file
+  - Evil Month: *Create a program that can be used for evil(or good...)*
+
+* Week 9 (10/10/16) (Evil Month)
+  - A program that...
+  - Evil Month: *Create a program that can be used for evil(or good...)*
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
