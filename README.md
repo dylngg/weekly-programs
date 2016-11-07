@@ -39,6 +39,16 @@ Every week I create a random program that does something... Below is the descrip
 * Week 10 (10/17/16) (Evil Month)
   - Finds all the email adresses in a website
   - *Requires modules bs4 and requests*
+  - Evil Month: *Create a program that can be used for evil(or good...)*
+
+* Week 11 (10/24/16) (Evil Month) (Uploaded on 11/6 due to failure to sync github :P)
+  - Records your keystrokes (keylogger)
+  - *Requires modules pyHook and pythoncom*
+  - Evil Month: *Create a program that can be used for evil(or good...)*
+
+* Week 12 (10/31/16)
+  - Because of my failure to sync github last week, this week will include two programs!
+  - The first program tells you if your number is a prime, and the other generates primes using the Sieve of Eratosthenes algorithm!
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
