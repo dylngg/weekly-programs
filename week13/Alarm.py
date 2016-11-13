@@ -39,7 +39,7 @@ class Alarm(threading.Thread):
 def main(args):
 
 	# get input for alarm clock
-	parser = argparse.ArgumentParser(description='This is a demo script by nixCraft.')
+	parser = argparse.ArgumentParser(description='A simple Alarm Clock')
 	parser.add_argument('-t','--time', help='Enter wakeup time (h:mm), no military time',required=True)
 	parser.add_argument('-y','--type', help='AM or PM?',required=True)
 	args = parser.parse_args()
