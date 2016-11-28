@@ -56,5 +56,8 @@ Every week I create a random program that does something... Below is the descrip
 * Week 14 (11/14/16)
   - A simple timer! Outputs text when your time is up.
 
+* Week 15 (11/21/16)
+  - A simple TCP server that sends responses and handles clients.
+
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
