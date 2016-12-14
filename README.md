@@ -1,5 +1,5 @@
 # weekly-programs
-Every week I create a random program that does something... Below is the description of what each program does.
+Every week I create a random program that does something... I try to upload my program every sunday the week after but I often forget... Below is the description of what each program does.
 
 
 
@@ -55,6 +55,18 @@ Every week I create a random program that does something... Below is the descrip
 
 * Week 14 (11/14/16)
   - A simple timer! Outputs text when your time is up.
+
+* Week 15 (11/21/16)
+  - A simple TCP server that sends responses and handles clients.
+
+* Week 16 (11/28/16) 
+  - Prints out a text circle with a specific radius (it's harder to program than you think...).
+  - Usage: *circle_tester.py -r RADIUS -c CHAR*
+
+* Week 17 (12/5/16)
+  - Gets the daily weather forcast.
+  - Usage: *day_weather.py -x LONGITUDE -y LATITUDE -k KEY*
+  - *Requires python-forecastio module and API key*
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
