@@ -1,4 +1,5 @@
 # weekly-programs
+Every week I create a random program that does something... I try to upload my program every sunday the week after but I often forget... Below is the description of what each program does.
 
 
 
