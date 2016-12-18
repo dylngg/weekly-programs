@@ -69,7 +69,7 @@ Every week I create a random program that does something... I try to upload my p
   - *Requires python-forecastio module and API key*
 
 * Week 18 (12/12/16)
-  - Replaces text input with numb3rs.
+  - Replaces certain characters from input with numb3rs.
   - Usage *numb3rs.py -t TEXT* 
 
 ## Side Note

@@ -3,7 +3,7 @@ import argparse
 import sys
 
 def main(args):
-	# get input for Circle
+	# get input for circle
 	parser = argparse.ArgumentParser(description='Create a circle of text')
 	parser.add_argument('-r','--radius', help='Input for the readius of the circle',required=True)
 	parser.add_argument('-c','--char', help='Input for the text characters of the circle',required=False)

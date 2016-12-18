@@ -14,7 +14,6 @@ def main(args):
     print(text_input)
 
     for letter, num in replacable.items():
-        print(letter + ': ' + num)
         text_input = text_input.replace(letter, num)
 
     print(text_input)
