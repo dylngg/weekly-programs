@@ -68,5 +68,9 @@ Every week I create a random program that does something... I try to upload my p
   - Usage: *day_weather.py -x LONGITUDE -y LATITUDE -k KEY*
   - *Requires python-forecastio module and API key*
 
+* Week 18 (12/12/16)
+  - Replaces text input with numb3rs.
+  - Usage *numb3rs.py -t TEXT* 
+
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
