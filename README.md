@@ -72,5 +72,9 @@ Every week I create a random program that does something... I try to upload my p
   - Replaces certain characters from input with numb3rs.
   - Usage *numb3rs.py -t TEXT* 
 
+* Week 19 (12/19/16)
+  - It's Christmas Time! Program creates a text based cristmas tree.
+  - Usage *treeTester.py -x WIDTH -y HEIGHT -c CHAR -o ORNAMENT*
+
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
