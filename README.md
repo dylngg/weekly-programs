@@ -76,5 +76,16 @@ Every week I create a random program that does something... I try to upload my p
   - It's Christmas Time! Program creates a text based cristmas tree.
   - Usage *treeTester.py -x WIDTH -y HEIGHT -c CHAR -o ORNAMENT*
 
+<<<<<<< HEAD
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming, Thanks.
+=======
+* Week 20 (12/26/16)
+  - Get bored often? Jump down in a internet rabbit hole! This program gets a interesting wikipedia article and either prints or opens the website up.
+  - Usage: *wiki_rabbit_hole.py -a NUM OF ARTICLES -o OPEN IN BROWSER?(y/n)*
+  - *Requires bs4, requests & wikipedia modules*  
+
+
+## Side Note
+* Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming. Thanks!
+>>>>>>> master
