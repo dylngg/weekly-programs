@@ -85,9 +85,10 @@ Every week I create a random program that does something... I try to upload my p
   - A color a day keeps the insanity away! This program generates a random color
   - Usage *random_color.py -t (HEX, RGB, HSV, CMYK)*
 
-* Week 22 (1/9/16)
+* Week 22 (1/9/17)
   - Need Trump Ipsum text? Me neither. Here it is anyways! The program generates trump ipsum based on his tweets.
   - Usage *trump_ipsum.py -p NUM OF PARAGRAPHS*
+
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming. Thanks!
