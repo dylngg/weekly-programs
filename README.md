@@ -91,7 +91,7 @@ Every week I create a random program that does something... I try to upload my p
 
 * Week 23 (1/16/17)
   - An totally new program based off of my biggest files program (week02). It's more efficent and doesn't look like garbage.
-  - Usage *top_files.py -d DIRECTORY -f NUMBER OF FILES*  
+  - Usage *top_files.py -d DIRECTORY -f NUM OF FILES*  
 
 
 ## Side Note
