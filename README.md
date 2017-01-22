@@ -89,6 +89,10 @@ Every week I create a random program that does something... I try to upload my p
   - Need Trump Ipsum text? Me neither. Here it is anyways! The program generates trump ipsum based on his tweets.
   - Usage *trump_ipsum.py -p NUM OF PARAGRAPHS*
 
+* Week 23 (1/16/17)
+  - An totally new program based off of my biggest files program (week02). It's more efficent and doesn't look like garbage.
+  - Usage *top_files.py -d DIRECTORY -f NUMBER OF FILES*  
+
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming. Thanks!
