@@ -93,6 +93,9 @@ Every week I create a random program that does something... I try to upload my p
   - An totally new program based off of my biggest files program (week02). It's more efficent and doesn't look like garbage.
   - Usage *top_files.py -d DIRECTORY -f NUM OF FILES*  
 
+* Week 24 (1/23/17)
+  - A hangman game with random words from the english dictionary (Some words may be super tricky!).
+  - Usage *hangman.py -w NUM OF WORDS*
 
 ## Side Note
 * Just as a side note, I am a inexperienced programmer who is trying to learn Python, so if you have any suggestions on how to make a weekly program better or more efficent, you can help me by creating a pull request with the improved program in the 'improvements' branch. Make sure that you thoroughly comment and explain how everything works :). I'd love to use these programs to learn how I can improve and learn more about programming. Thanks!
