@@ -97,7 +97,7 @@ Every week I create a random program that does something... I try to upload my p
   - A hangman game with random words from the english dictionary (Some words may be super tricky!).
   - Usage *hangman.py -w NUM OF WORDS*
 
-* Week 25 (1/30/16)
+* Week 25 (1/30/16) (Updated Late...)
   - A class and program that generates a random number, with the option to set the values of the dice, and the number of values the dice holds.
   - Usage *roll_a_dice.py -d NUM OF DICE -f NUM OF DICE FACES -s SET DICE FACES*
 
