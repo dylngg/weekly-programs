@@ -1,5 +1,7 @@
 # weekly-programs
  ~~Every week I create a random program that does something... I try to upload my program every sunday the week after but I often forget... Below is the description of what each program does.~~
+
+
 For 27 weeks, I created a new program. The goal of this experiment was to learn python and after creating a new program every 27 weeks, I've found that I have certainly acomplished that goal. My goal now, is the learn the language further than just some scripts. I need to build things that are more advanced, and focus on things that truely challenge me. In order to do this, I need to devote more time to doing advanced programs, and the weekly programs are a precious amount of time that I could spend working on things bigger than just a script. So for now, I am no longer going to create a weekly program, and instead focus on things that challenge me. 
 
 
